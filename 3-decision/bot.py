@@ -3,7 +3,7 @@ print("What book will you read?")
 book = str(input())
 
 #respond if adventure
-if book == "adventure":
+if book == "adventure" or book == "Adventure":
     print("I like adventure books")
 
 #end
