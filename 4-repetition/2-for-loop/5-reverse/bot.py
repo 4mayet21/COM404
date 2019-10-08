@@ -1,4 +1,4 @@
-scrawl = (input("What strange markings do you see?  "))
+scrawl = (input("What phrase do you see?  "))
 revMod = ""
 for item in range(0, len(scrawl)):
     rev = scrawl[item]
